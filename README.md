@@ -17,7 +17,7 @@ $ pkg install python
 $ cd /sdcard
 $ git clone https://github.com/M4L1K0FC/Kasir-Python
 $ python KasirPython.py
-'''
+```
 
 MINIMAL KASIH BINTANG LAH, JANGAN CUMA NYOMOT DOANG 🗿🗿
 
