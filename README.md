@@ -9,7 +9,7 @@ INI ADALAH MATERI AKHIR SEMESTER 1 ATAU 2, YAITU MEMBUAT PROGRAM KASIR DENGAN SO
 Script kasir ini dibuat dengan menggunakan [`Python`](https://www.python.org/downloads/windows/)
 
 # RUN DI ANDROID (TERMUX)
-'''bash
+```bash
 $ pkg update && pkg upgrade (ketik y, enter)
 $ termux-setup-storage (izinkan)
 $ pkg install git
