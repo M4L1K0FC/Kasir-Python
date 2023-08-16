@@ -1,4 +1,4 @@
-# CATATAN
+# PENGANTAR
 INI ADALAH CONTOH SUATU SCRIPT PROGRAM KASIR SEDERHANA DENGAN SOFTWARE PYTHON
 
 <p align="center">
@@ -35,10 +35,10 @@ $ cd dekstop/Kasir-Python
 $ python KasirPython.py
 ```
 
-# Pesan
+# CATATAN
 MINIMAL KASIH BINTANG LAH, JANGAN CUMA NYOMOT DOANG 🗿🗿
 Catatan: Script ini dibuat untuk mempermudah (kamu yang lagi baca) saat membuat program kasir nanti
 
-# Hubungi Saya
+# HUBUNGI SAYA
 [`Gmail`](bugdevmalic@gmail.com)
 [`Tiktok`](https://www.tiktok.com/@itsmeemaalicx?_t=8et0YwhZzc2&_r=1)
