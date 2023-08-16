@@ -1,8 +1,8 @@
 # CATATAN
-INI ADALAH SUATU SCRIPT PROGRAM KASIR DENGAN SOFTWARE PYTHON
+INI ADALAH CONTOH SUATU SCRIPT PROGRAM KASIR SEDERHANA DENGAN SOFTWARE PYTHON
 
 <p align="center">
-	<img src="https://telegra.ph/file/09910c07cd4637fd64727.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/fe26611d9e658eea2ada8.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">M4L1K-0FC</h1>
 
