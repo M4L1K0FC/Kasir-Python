@@ -2,7 +2,7 @@
 INI ADALAH CONTOH SUATU SCRIPT PROGRAM KASIR SEDERHANA DENGAN SOFTWARE PYTHON
 
 <p align="center">
-	<img src="https://telegra.ph/file/fe26611d9e658eea2ada8.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/fe26611d9e658eea2ada8.jpg" width="90%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">M4L1K-0FC</h1>
 
