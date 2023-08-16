@@ -37,6 +37,7 @@ $ python KasirPython.py
 
 # CATATAN
 MINIMAL KASIH BINTANG LAH, JANGAN CUMA NYOMOT DOANG 🗿🗿
+
 Catatan: Script ini dibuat untuk mempermudah (kamu yang lagi baca) saat membuat program kasir nanti
 
 # HUBUNGI SAYA
