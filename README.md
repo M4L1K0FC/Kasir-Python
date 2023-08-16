@@ -19,6 +19,18 @@ $ git clone https://github.com/M4L1K0FC/Kasir-Python
 $ python KasirPython.py
 ```
 
+# RUN DI WINDOWS (PYTHON)
+```bash
+# python nama folder/KasirPython.py
+```
+
+# RUN DI WINDOWS (CMD)
+```bash
+1. cd dekstop/files
+2. 
+
+
+# Pesan
 MINIMAL KASIH BINTANG LAH, JANGAN CUMA NYOMOT DOANG 🗿🗿
 
 Catatan: Script ini dibuat untuk mempermudah (kamu yang lagi baca) saat membuat program kasir nanti
