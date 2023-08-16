@@ -7,6 +7,8 @@ INI ADALAH CONTOH SUATU SCRIPT PROGRAM KASIR SEDERHANA DENGAN SOFTWARE PYTHON
 <h1 align="center">M4L1K-0FC</h1>
 
 Script kasir ini dibuat dengan menggunakan [`Python`](https://www.python.org/downloads/windows/)
+[`Quick Edit`](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
+[`Termux`](https://play.google.com/store/apps/details?id=com.termux)
 
 # RUN DI ANDROID (TERMUX)
 ```bash
