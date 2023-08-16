@@ -23,6 +23,7 @@ $ python KasirPython.py
 # RUN DI WINDOWS (PYTHON)
 ```bash
 # python Kasir-Python/KasirPython.py
+
 ```
 
 # RUN DI WINDOWS (CMD)
