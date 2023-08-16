@@ -22,14 +22,14 @@ $ python KasirPython.py
 
 # RUN DI WINDOWS (PYTHON)
 ```bash
-# python Kasir-Python/KasirPython.py
+$ python Kasir-Python/KasirPython.py
 
 ```
 
 # RUN DI WINDOWS (CMD)
 ```bash
-1. cd dekstop/Kasir-Python
-2. python KasirPython.py
+$ cd dekstop/Kasir-Python
+$ python KasirPython.py
 ```
 
 
