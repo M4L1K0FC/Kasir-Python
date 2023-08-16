@@ -16,18 +16,20 @@ $ pkg install git
 $ pkg install python
 $ cd /sdcard
 $ git clone https://github.com/M4L1K0FC/Kasir-Python
+$ cd Kasir-Python
 $ python KasirPython.py
 ```
 
 # RUN DI WINDOWS (PYTHON)
 ```bash
-# python nama folder/KasirPython.py
+# python Kasir-Python/KasirPython.py
 ```
 
 # RUN DI WINDOWS (CMD)
 ```bash
-1. cd dekstop/files
-2. 
+1. cd dekstop/Kasir-Python
+2. python KasirPython.py
+```
 
 
 # Pesan
