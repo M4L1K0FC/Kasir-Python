@@ -1,26 +1,7 @@
-# =============================================================
-# CIE YANG KLIK DOKUMENTNYA KARENA PENASARAN 🫵😆
-# =============================================================
-# INI ADALAH MATERI NANTI AKHIR SEMESTER 1/2, YAITU
-# MEMBUAT PROGRAM KASIR SEDERHANA DENGAN PYTHON
-# AKU DAPAT BOCORAN TUGAS INI DARI KAKEL 11 & 12 EKSTRA ROBOTIKA
-# ==============================================================
-# Lumayan kan dapet bocoran tugas gratis, bisa belajar dulu cara buatnya 😎👍
-# Catatan : Kalau mau edit scriptnya, edit teks yang warna hijau
-# Teks warna hitam dan biru gausah di ganti nanti malah error
-# Kalo mau coba run botnya download aplikasi termux, terus ketik perintah ini:
-	# termux-setup-storage (izinkan)
-	# pkg install python (ketik y, lalu enter)
-	# cd /sdcard/folder simpan script/nama script
-	# python nama script.py
-# Segampang itu pasti bisa kan 🗿
-# Script ini dibuat Oleh Aryasatia Parama Radisha Nadyasmoro 
-# WhatsApp : +62 813-8754-5144
-
 import datetime
 sekarang = datetime.datetime.now()
 
-print("------------ SELAMAT DATANG DI WARUNG ARYA ------------")
+print("------------ SELAMAT DATANG DI WARUNG SAYA ------------")
 print("Waktu:", sekarang)
 pembeli = input("Masukkan nama Pembeli: ")
 print ("Nama Pembeli :", pembeli) 
