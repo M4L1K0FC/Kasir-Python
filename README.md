@@ -35,11 +35,6 @@ $ cd dekstop/Kasir-Python
 $ python KasirPython.py
 ```
 
-# CATATAN
-MINIMAL KASIH BINTANG LAH, JANGAN CUMA NYOMOT DOANG 🗿🗿
-
-Catatan: Script ini dibuat untuk mempermudah (kamu yang lagi baca) saat membuat program kasir nanti
-
 # HUBUNGI SAYA
 [`Gmail`](bugdevmalic@gmail.com)
 [`Tiktok`](https://www.tiktok.com/@itsmeemaalicx?_t=8et0YwhZzc2&_r=1)
