@@ -35,6 +35,6 @@ $ cd dekstop/Kasir-Python
 $ python KasirPython.py
 ```
 
-# HUBUNGI SAYA
+# SOSIAL MEDIA
 [`Gmail`](bugdevmalic@gmail.com)
 [`Tiktok`](https://www.tiktok.com/@itsmeemaalicx?_t=8et0YwhZzc2&_r=1)
