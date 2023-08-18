@@ -135,6 +135,8 @@ def fungsiminuman():
 fungsimakanan()
 fungsiminuman()
 totalsemua=totalmkn+totalmnm
+import datetime
+wktbyr = datetime.datetime.now()
 
 print("\n------------------ Pembayaran ------------------")
 print("\nTotal harus Dibayar : Rp",totalsemua)
@@ -146,7 +148,7 @@ print("\n==================================")
 print("======= S T R U K   B E L I ======")
 print("==================================")
 print ("Nama\t\t:",pembeli)
-print("Waktu Pembayaran:", sekarang)
+print("Waktu Pembayaran:", wktbyr)
 print ("Beli\t\t:",porsi,mkn,"( Rp", totalmkn,")")
 print ("\t\t ",gelas,mnm,"( Rp", totalmnm,")")
 print ("Tagihan\t\t: Rp",totalsemua)
